@@ -1,4 +1,4 @@
-# cerebro-hash
+# cerebro-osx-eject
 
 > [Cerebro](https://cerebroapp.com) plugin to eject mounted volumes in macOS
 
